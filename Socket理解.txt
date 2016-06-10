@@ -1,0 +1,5 @@
+Socket简介
+    Socket起源于 20 世 纪 80 年代早期,最早由 4.1c BSD UNIX 引入,所以也称之为“BSD Socket 或者 Berkeley Socket”。BSD Socket 是事实上的网络应用编程接口标准,其它编程语言往往也是用与这套（用C写成的编程接口）类似接口。
+
+Socket作用
+    可以实现网络上的不同主机之间或同一主机的不同对象的数据通信，所以，现在Socket已经是一类通用通信接口的集合。
